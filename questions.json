@@ -1,0 +1,113 @@
+    [
+
+        {
+            "question": "What's the capital of Australia?: ",
+            "options": ["a, Sydney", "b, Canberra", "c, Melbourne", "d, Brisbane"],
+            "answer": "b"
+        },
+        {
+            "question": "What's the longest river in the world?: ",
+            "options": ["a, The Amazon river", "b, The Ganges", "c, The Nile", "d, The Missisipi river"],
+            "answer": "c"
+        },
+        {
+            "question": "What's the official language of Brazil?: ",
+            "options": ["a, Portuguese", "b, Brazilian", "c, Spanish", "d, English"],
+            "answer": "a"
+        },
+        {
+            "question": "Which's the largest desert in Asia? ",
+            "options": ["a, The Gobi Desert", "b, The Sahara Desert", "c, The Arabian Desert", "d, The Great Australian Desert"],
+            "answer": "a"
+        },
+        {
+            "question": "What's the capital of Japan? ",
+            "options": ["a, Kyoto", "b, Fukushima", "c, Inazawa", "d, Tokyo"],
+            "answer": "d"
+        },
+        {
+            "question": "What's the largest ocean in Europe? ",
+            "options": ["a, The Black Sea", "b, The Caspian Sea", "c, The Mediterranean Ocean", "d, The Baltic Sea"],
+            "answer": "c"
+        },
+        {
+            "question": "What's the Capital of France ",
+            "options": ["a, Lyon", "b, Nice", "c, Paris", "d, Marseille"],
+            "answer": "c"
+        },
+        {
+            "question": "What's the largest country in South America? ",
+            "options": ["a, Brazil", "b, Argentina", "c, Bolivia", "d, Ecuador"],
+            "answer": "a"
+        },
+        {
+            "question": "What's the capital of Canada? ",
+            "options": ["a, Toronto", "b, Montreal", "c, Vancouver", "d, Ottawa"],
+            "answer": "d"
+        },
+        {
+            "question": "What's the largest lake in Africa",
+            "options": ["a, Lake Albert", "b, Lake Victoria", "c, Lake Edward", "d, Lake Tana"],
+            "answer": "b"
+        },
+        {
+            "question": "What's the largest island in the Caribbean sea? ",
+            "options": ["a, Cuba", "b, Barbados", "c, Bahamas", "d, Jamaica"],
+            "answer": "a"
+        },
+        {
+            "question": "What's the largest country by land area in the world? ",
+            "options": ["a, China", "b, Russia", "c, Brazil", "d, Canada"],
+            "answer": "b"
+        },
+        {
+            "question": "What's the longest river within the United States? ",
+            "options": ["a, The Yukon River", "b, The Colorado River", "c, The Mississippi River", "d, The Red River"],
+            "answer": "c"   
+        },
+        {
+            "question": "What's the highest mountain peak in the world outside of Asia? ",
+            "options": ["a, Mount Kilimanjaro", "b, Mount McKinley", "c, Mount Vinson", "d, Mount Elbrus"],
+            "answer": "b"
+        },
+        {
+            "question": "Which two countries are seperated by the Strait of Gibraltar? ",
+            "options": ["a, Spain and Morocco", "b, France and Germany", "c, Portugal and Spain", "d, France and Algeria"],
+            "answer": "a"
+        },
+        {
+            "question": "What's the capital of South Korea? ",
+            "options": ["a, Hong Kong", "b, Busan", "c, Beijing", "d, Seoul"],
+            "answer": "d"
+        },
+        {
+            "question": "What's largest island in the Mediterranean Sea? ",
+            "options": ["a, Sardinia", "b, Corsica", "c, Crete", "d, Siciliy"],
+            "answer": "d"
+        },
+        {
+            "question": "What's the capital of Kazakhstan? ",
+            "options": ["a, Samarkand", "b, Omsk", "c, Astana", "d, Yekatarinburg"],
+            "answer": "d"
+        },
+        {
+            "question": "What's the largest river in Europe? ",
+            "options": ["a, Danube", "b, Rein", "c, Elba", "d, Dnieper"],
+            "answer": "a"
+        },
+        {
+            "question": "What's the largest island in the world? ",
+            "options": ["a, Madagascar", "b, Greenland", "c, New Guinea", "d, Borneo"],
+            "answer": "b"
+        },
+        {
+            "question": "What's the northernmost capital city in the world? ",
+            "options": ["a, Helsinki", "b, Stockholm", "c, Reyjkavik", "d, Moscow"],
+            "answer": "c"
+        },
+        {
+            "question": "Which continent is the least populated? ",
+            "options": ["a, Antarctica", "b, Europe", "c, Australia", "d, South America"],
+            "answer": "a"
+        }
+    ]
